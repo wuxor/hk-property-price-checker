@@ -1,0 +1,10 @@
+{
+    "name": "hk-property-price-checker",
+    "version": "1.0.0",
+    "description": "Hong Kong Property Price Checker",
+    "dependencies": {
+        "axios": "^0.18.1",
+        "js-yaml": "^3.14.0",
+        "puppeteer": "^5.4.1"
+    }
+}
